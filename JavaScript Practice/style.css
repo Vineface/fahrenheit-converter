@@ -1,0 +1,18 @@
+h1 {
+	text-align: center;
+}
+body {
+	font-family: Lobster, Montserrat, Cairo;
+	background: linear-gradient(90deg, cyan, rgb(130, 231, 161));
+}
+div {
+	text-align: center;
+	padding: 50px 0;
+	border: 1px solid black;
+	margin: 0 150px;
+	box-shadow: 5px 5px 5px gray;
+	background-color: rgb(223, 221, 221);
+}
+#celsius {
+	position: absolute;
+}
