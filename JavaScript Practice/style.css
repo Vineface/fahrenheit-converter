@@ -16,3 +16,8 @@ div {
 #celsius {
 	position: absolute;
 }
+@media only screen and (max-width: 500px) {
+	div {
+		margin: auto;
+	}
+}
